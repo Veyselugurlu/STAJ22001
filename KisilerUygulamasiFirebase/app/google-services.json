@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690341050375",
+    "project_id": "kotlin-ecfbc",
+    "storage_bucket": "kotlin-ecfbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690341050375:android:a31ad814216a3b525892a2",
+        "android_client_info": {
+          "package_name": "com.example.kisileruygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARE0Qh6tTs9wAW2KNurXEQiCIuVkdmTRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
